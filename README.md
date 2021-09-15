@@ -22,8 +22,6 @@
 
 ### "Um pouco de programação nunca é demais." 🤙🏿
 
-<br/>
-
 ### Ánalise IHC do Spotify:
 
 - [Clique aqui para ver a playlist completa](https://youtube.com/playlist?list=PL45WrILY0OAEBi7LODng88_lF8Dw9KGiO)
