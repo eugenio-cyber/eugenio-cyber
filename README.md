@@ -20,9 +20,3 @@
     <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
-
-### "Um pouco de programação nunca é demais." 🤙🏿
-
-### Ánalise IHC do Spotify:
-
-- [Clique aqui para ver a playlist completa](https://youtube.com/playlist?list=PL45WrILY0OAEBi7LODng88_lF8Dw9KGiO)
