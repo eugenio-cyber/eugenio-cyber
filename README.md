@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 Desenvolvedor Full Stack Jr em formação
+- 🔭 Desenvolvedor Full-Stack Jr em formação
 - 🌱 Atualmente sou estudante na Cubos Academy
 - 📫 Você pode me encontrar: <wesleyeugenio3@gmail.com>
 - 😄 Pronomes: ele/dele
