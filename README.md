@@ -10,8 +10,8 @@
 <br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eugenio-cyber&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio-cyber&theme=dark&layout=compact">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eugenio-cyber&show_icons=true&theme=dark">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio-cyber&theme=dark&layout=compact">
 </div>
 
 <br>
