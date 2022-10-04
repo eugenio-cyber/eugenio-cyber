@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 Full Stack Jr Developer
+- 🔭 Full Stack Developer
 - 🌱 Student at Cubos Academy
 - 📫 You can find me: <wesleyeugenio3@gmail.com>
 - 😄 Pronouns: he/his
