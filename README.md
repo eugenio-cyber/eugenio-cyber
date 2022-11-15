@@ -4,8 +4,9 @@
 
 - 🔭 Desenvolvedor Full Stack
 - 🌱 Estudante na Cubos Academy
-- 📫 Você pode me encontrar pelo e-mail: <wesleyeugenio3@gmail.com>
 - 😄 Pronouns: ele/dele
+- 💻 Meu portfólio: <https://wesleydev.vercel.app/>
+- 📫 Você pode me encontrar pelo e-mail: <wesleyeugenio3@gmail.com>
 
 <br>
 
@@ -29,6 +30,7 @@
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Git Lab" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
