@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvedor Full Stack
 - 😄 Pronouns: ele/dele
-- 💻 Meu portfólio: <https://wesleydev.vercel.app/>
+- 💻 Meu portfólio: <a href="https://wesleydev.vercel.app" target="_blank">wesleydev.vercel.app<a/>
 - 📫 Você pode me encontrar pelo e-mail: <wesleyeugenio3@gmail.com>
 
 <br>
@@ -28,7 +28,6 @@
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
