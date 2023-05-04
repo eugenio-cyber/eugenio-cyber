@@ -1,4 +1,4 @@
-<h3 align="center"> Olá! Eu sou Wesley Eugênio ✌🏿</h3>
+<h3 align="center"> Olá! Eu sou Wesley Costa ✌🏿</h3>
 
 <br>
 
@@ -38,7 +38,7 @@
 
 ##
 
-<div>    
+<div align="center">    
     <a href="https://www.linkedin.com/in/wesley-dev/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>    
