@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 Desenvolvedor Full Stack
+- 🔭 Desenvolvedor Web Full Stack
 - 😄 Pronouns: ele/dele
 - 💻 Meu portfólio: <a href="https://wesleydev.vercel.app" target="_blank">wesleydev.vercel.app<a/>
 - 📫 Você pode me encontrar pelo e-mail: <wesleyeugenio3@gmail.com>
